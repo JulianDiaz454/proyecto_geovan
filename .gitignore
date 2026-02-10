@@ -1,0 +1,15 @@
+# Archivos de netbeans
+
+/nbproject/private/
+/build/
+/dist/
+nbdist/
+.nb-gradle/
+
+# Archivos de sistema y logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Variables sensibles
+.env
