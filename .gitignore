@@ -13,3 +13,4 @@ Thumbs.db
 
 # Variables sensibles
 .env
+/geovanApp/build/
